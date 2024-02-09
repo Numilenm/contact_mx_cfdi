@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': "CFDI en contacto",
-    'author': "Numilen Soledad Monzon",
+    'author': "GECONS SAS",
     'category': 'Contact',
     'depends': ['base', 'l10n_mx_edi', 'account', 'contacts', 'payment'],
     'data': [
